@@ -3,7 +3,7 @@
 + NIM:312310748
 
 # Lab10Web
-## Praktikum 10: PHP OOP
+## PHP OOP
 
-![Screenshot 2024-12-04 163846](https://github.com/user-attachments/assets/edd6576e-23a6-47a4-8b89-d0939cf9cb8e)
+![Screenshot 2024-12-04 163846](https://github.com/user-attachments/assets/42137dfc-0410-46e3-b14a-b24bf05cdd20)
 
